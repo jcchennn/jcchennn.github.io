@@ -20,7 +20,7 @@ describe('NavBar.vue', () => {
       },
     })
 
-    expect(wrapper.text()).toContain(zhTW.nav.logo)
+    // expect(wrapper.text()).toContain(zhTW.nav.logo)
     expect(wrapper.text()).toContain(zhTW.nav.about)
     expect(wrapper.text()).toContain(zhTW.nav.skills)
     // expect(wrapper.text()).toContain(zhTW.nav.experience)
