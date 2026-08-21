@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "logo": "JC.dev",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "theme": "Theme",
+    "language": "語系"
+  },
+  "hero": {
+    "status": "Available for Frontend / Full-Stack Roles",
+    "greeting": "Hello, I'm",
+    "name": "Geraldine Chen",
+    "title": "Senior Frontend Engineer",
+    "slogan": "Focusing on Frontend Engineering, moving towards Full-Stack",
+    "bio": "Passionate about crafting exceptional user experiences and high-performance web applications.",
+    "downloadResume": "Download Resume PDF",
+    "contactMe": "Contact Me",
+    "scrollDown": "Scroll down to explore",
+    "social": {
+      "github": "GitHub Profile",
+      "linkedin": "LinkedIn Profile",
+      "email": "Send Email"
+    },
+    "techHeader": "Core Tech Stack"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "logo": "JC.dev",
+    "about": "關於我",
+    "skills": "核心技能",
+    "experience": "工作經歷",
+    "projects": "精選作品",
+    "contact": "聯絡方式",
+    "theme": "切換主題",
+    "language": "Language"
+  },
+  "hero": {
+    "status": "尋求前端/全端開發機會",
+    "greeting": "你好，我是",
+    "name": "Geraldine Chen",
+    "title": "資深前端工程師",
+    "slogan": "從前端出發，\n探索系統與產品，\n走向更大的可能！",
+    "bio": "熱愛創造良好使用者體驗與高效能的前端應用程式。具備 Vue 3、TypeScript 與元件庫架構設計經驗，持續探索現代 Web 開發技術與架構。",
+    "downloadResume": "下載履歷 PDF",
+    "contactMe": "聯絡我",
+    "scrollDown": "向下滾動探索更多",
+    "social": {
+      "github": "GitHub 專頁",
+      "linkedin": "LinkedIn 個人檔案",
+      "email": "發送 Email"
+    },
+    "techHeader": "核心技術棧"
+  }
+}

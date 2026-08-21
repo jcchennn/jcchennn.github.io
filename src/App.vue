@@ -1,14 +1,22 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import NavBar from './components/NavBar.vue'
+import HeroSection from './components/HeroSection.vue'
+</script>
 
 <template>
-  <div class="hero bg-base-200 min-h-screen">
-    <div class="hero-content text-center">
-      <div class="max-w-md">
-        <h1 class="text-5xl font-bold">Hello there</h1>
-        <h3 class="py-6">I'm JC</h3>
-        <!-- <button class="btn btn-primary">Get Started</button> -->
-      </div>
-    </div>
+  <div
+    class="min-h-screen bg-base-100 text-base-content font-sans antialiased selection:bg-primary selection:text-primary-content flex flex-col"
+  >
+    <!-- Top Navigation Bar -->
+    <NavBar />
+
+    <!-- Main Content Area -->
+    <main class="flex-grow">
+      <!-- Hero / Intro Section (Full-size page design) -->
+      <HeroSection />
+
+      <!-- Future sections like Skills, Experience, Projects, Contact will follow -->
+    </main>
   </div>
 </template>
 
